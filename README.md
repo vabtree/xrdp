@@ -1,4 +1,4 @@
-chmod +x  ~/Downloads/xrdp-installer-1.4.sh
+```chmod +x  ~/Downloads/xrdp-installer-1.4.sh
 
 --help or -h          => will display a basic help menu
 --sound or -s         => will enable sound redirection 
@@ -11,3 +11,4 @@ chmod +x  ~/Downloads/xrdp-installer-1.4.sh
 ./xrdp-installer-1.4.sh -l      (this would customize the xrdp login screen -see here)
 
 ./xrdp-installer-1.4.sh -s -l      (this would enable the sound redirection and customize the xrdp login screen)
+```
